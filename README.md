@@ -7,7 +7,7 @@
 <br><strong><em>Colégio:</em></strong> Hugo Simas
 <br>
 <br> Sou a Dienyffer, tenho 15 anos, estou no 1 do Ensino Médio. 
-O que falar sobre mim? sou uma pessoa divertida, legal e sociável sou
+O que falar sobre mim? <br>sou uma pessoa divertida, legal e sociável sou
 uma pessoa caseira, gosto de assistir filmes/séries.
 <br>
 <br> Moro com minha mãe, minha avó e meu irmão, amo minha família, eles me apoiam
